@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 String.valueOf(s17)+ "\r\n" +
                 String.valueOf(s18)+
                 "\r\n" +
-                String.valueOf(n2)
+                String.valueOf(n2)+ "Nuevo cambio en GIT!!!!"
         );
 
 
